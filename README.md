@@ -45,8 +45,8 @@ Make sure you have:
 ### 2️⃣ Clone This Repository
 
 ```bash
-git clone https://github.com/azhar-sayyad/latex-resume-template.git
-cd latex-resume-template
+git clone https://github.com/azhar-sayyad/resume-template.git
+cd resume-template
 ```
 
 ---
@@ -58,6 +58,20 @@ pdflatex main.tex
 ```
 
 OR simply upload to **Overleaf** and compile.
+
+---
+
+## 🌐 Use On Overleaf
+
+Open the template directly on Overleaf:
+
+[Open Overleaf Project](https://www.overleaf.com/read/twkptgqvjrph#a919fd)
+
+To copy it into your account:
+
+1. Open the link and sign in to Overleaf.
+2. Click `Menu`.
+3. Choose `Copy Project`.
 
 ---
 
